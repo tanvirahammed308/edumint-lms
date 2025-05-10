@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Top 10 Study Hacks for Online Learners",
+    "slug": "top-10-study-hacks",
+    "author": "Tanvir Ahammed",
+    "authorImage": "https://solverwp.com/demo/wp/edumint/wp-content/uploads/2024/01/blog-6-350x236.jpg",
+    "date": "2025-05-05",
+    "category": "Study Tips",
+    
+    "content": "Online learning can be challenging without the right techniques. Here are 10 proven study hacks to help you stay focused and retain more...",
+    "tags": ["online learning", "productivity", "study tips"],
+    "commentsCount": 12,
+    "readingTime": "5 min read"
+  },
+  {
+    "id": 2,
+    "title": "How AI is Transforming Modern Education",
+    "slug": "ai-in-education",
+    "author": "Sarah Rahman",
+    "authorImage": "https://solverwp.com/demo/wp/edumint/wp-content/uploads/2024/01/blog-5-350x236.jpg",
+    "date": "2025-04-28",
+    "category": "Technology",
+   
+    "content": "Artificial Intelligence is changing the way we teach and learn. From personalized learning paths to automated grading, here’s what you need to know...",
+    "tags": ["AI", "edtech", "future of education"],
+    "commentsCount": 8,
+    "readingTime": "6 min read"
+  },
+  {
+    "id": 3,
+    "title": "Best Free Resources to Learn Coding in 2025",
+    "slug": "free-coding-resources",
+    "author": "Imran Hossain",
+    "authorImage": "https://solverwp.com/demo/wp/edumint/wp-content/uploads/2024/01/blog-4-350x236.jpg",
+    "date": "2025-05-01",
+    "category": "Development",
+   
+    "content": "Whether you're just starting or looking to level up, here are the best free resources to learn programming languages like JavaScript, Python, and more...",
+    "tags": ["coding", "programming", "free resources"],
+    "commentsCount": 5,
+    "readingTime": "7 min read"
+  },
+  {
+    "id": 4,
+    "title": "Why Time Management is Crucial for Online Students",
+    "slug": "time-management-for-students",
+    "author": "Tanvir Ahammed",
+    "authorImage": "https://solverwp.com/demo/wp/edumint/wp-content/uploads/2024/01/blog-3-350x236.jpg",
+    "date": "2025-04-20",
+    "category": "Personal Development",
+    
+    "content": "Managing your time effectively is key to succeeding in online courses. Learn the best strategies to organize your schedule and stay on track...",
+    "tags": ["time management", "student life", "LMS tips"],
+    "commentsCount": 10,
+    "readingTime": "4 min read"
+  },
+  {
+    "id": 5,
+    "title": "Gamification in LMS: Does it Really Work?",
+    "slug": "gamification-in-lms",
+    "author": "Nadia Karim",
+    "authorImage": "https://solverwp.com/demo/wp/edumint/wp-content/uploads/2024/01/blog-2-350x236.jpg",
+    "date": "2025-03-30",
+    "category": "Engagement",
+   
+    "content": "Gamification has become a buzzword in e-learning. But does adding badges and points really help students learn better? We explore the pros and cons...",
+    "tags": ["gamification", "LMS", "student engagement"],
+    "commentsCount": 6,
+    "readingTime": "5 min read"
+  }
+]
