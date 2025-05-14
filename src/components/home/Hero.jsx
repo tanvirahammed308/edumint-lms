@@ -1,5 +1,6 @@
 import React from 'react'
 import hero from "../../assets/img/hero-12.png"
+import { Link } from 'react-router-dom'
 
 const Hero = () => {
   return (
@@ -14,8 +15,13 @@ const Hero = () => {
             </div>
             <h1 className='text-[#201654] font-bold text-4xl md:text-6xl'>A better learning future starts here</h1>
             <div className='flex justify-center md:justify-start gap-5'>
-                <button className=' py-2 px-2 text-[#201654] border font-semibold rounded'>Read More</button>
+              <Link to="/about">
+              <button className=' py-2 px-2 text-[#201654] border font-semibold rounded'>Read More</button>
+              </Link>
+                <Link to="/courses">
                 <button className=' py-2 px-2 text-[#201654] border font-semibold rounded'>Enroll Now</button>
+                
+                </Link>
             </div>
         </div>
         <div>

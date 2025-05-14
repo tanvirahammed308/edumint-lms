@@ -22,11 +22,11 @@ const Navbar = () => {
         <div>
           <ul className="flex gap-5 text-[#201654] font-semibold">
             <li><Link to="/">Home</Link></li>
-            <li><Link to="#">Courses</Link></li>
-            <li><Link to="#">Instructor</Link></li>
+            <li><Link to="/courses">Courses</Link></li>
+            <li><Link to="/instructor">Instructor</Link></li>
             <li><Link to="/blogs">Blogs</Link></li>
             <li><Link to="/about">About us</Link></li>
-            <li><Link to="/contact">Contact Us</Link></li>
+            <li><Link to="/contact">Contact us</Link></li>
           </ul>
         </div>
 
