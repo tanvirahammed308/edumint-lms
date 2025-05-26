@@ -16,7 +16,7 @@ const OurCourses = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-5">
             {
                 data.map((item)=>(
-                    <div key={item.id} className="bg-white rounded shadow-lg p-4 flex flex-col w-[300px]">
+                    <div key={item.id} className="bg-white rounded shadow-lg p-4 flex flex-col w-full px-5  md:w-[300px] ">
               <img src={item.img} alt={item.title} className="w-full h-40 object-cover rounded" />
               <h3 className="text-xl font-bold mt-3">{item.title}</h3>
               <p className="text-sm mt-1 text-gray-600 flex-grow">{item.description}</p>
